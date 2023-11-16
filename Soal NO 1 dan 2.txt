@@ -1,0 +1,10 @@
+1. Kerangka kerja yang diciptakan untuk membantu web developer dalam penulisan kode akan jauh lebih mudah, cepat, dan terstruktur rapi.
+
+2. Tema : Koperasi simpan pinjam
+   Jobdesk : Azizi Fauzillah (DataBase)
+	     Muhammad Daffa Fauzan (Web)
+	     Yudha Galuh Prasetyo (Laporan)
+
+3. Permasalahannya yaitu monitoring karna koperasi tidak dilindungi oleh ojk jadi untuk monitoring ke nasabah itu sulit jadi banyak nasabah nakal yang berbuat kecurangan ketika proses penagihan contohnya yaitu BPKB menjadi jamininan namun ketika motornya ingin diambil ternyata motor tersebut sudah dijual
+
+solusinya karna berhubung permintaan dari pihak koperasi tersebut tidak bisa kami tampung, maka dari pihak koperasi hanya meminta kami untuk membuatkan form login saja bagi para calon nasabah. jadi solusi kami akan membuatkan form login tersebut
